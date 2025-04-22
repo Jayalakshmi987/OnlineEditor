@@ -17,13 +17,6 @@ This is a simple, visual article editor built with React. You can drag and drop 
 
 ------------------------------------------------------------------------------------------
 
-#Live Demo
-
-Check it out here:  
-**[https://onlinecanvaseditor.netlify.app/](https://onlinecanvaseditor.netlify.app/)**
-
-No login or setup required — just start building.
-
 ---
 
 #How to Run Locally
@@ -50,6 +43,8 @@ npm run dev
 ```
 
 Then open `http://localhost:5173` in your browser.
+![image](https://github.com/user-attachments/assets/222f49b8-fc03-40e4-8fa6-710146ce1a58)
+
 
 --------------------------------------------------------------------------
 
